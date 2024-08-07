@@ -1,10 +1,10 @@
-sejam bem vindos ao meu perfil💘
+💘sejam bem vindos ao meu perfil💘
 
-meu nome é Brhenda Favero;🌠
+*Meu nome é Brhenda Favero;🌠
 
-Eu estou no alura e no scratch;
+*Eu estou no alura;🫀
 
-para entrar em contato comigo basta acessar este e-mail 
+*para entrar em contato comigo basta acessar este e-mail
 @brhenda.favero@escola.pr.gov.br📫
 
 <!---
