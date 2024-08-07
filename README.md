@@ -1,11 +1,11 @@
-sejam bem vindos ao meu perfil
+sejam bem vindos ao meu perfil💘
 
-meu nome é Brhenda Favero;
+meu nome é Brhenda Favero;🌠
 
 Eu estou no alura e no scratch;
 
 para entrar em contato comigo basta acessar este e-mail 
-@brhenda.favero@escola.pr.gov.br
+@brhenda.favero@escola.pr.gov.br📫
 
 <!---
 brhenda/brhenda is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
