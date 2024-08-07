@@ -1,10 +1,9 @@
-- 👋 Hi, I’m @brhenda
-- 👀 I’m interested in learn
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+sejam bem vindos ao meu perfil
+
+meu nome é Brhenda Favero;
+Eu estou no alura e no scratch;
+para entrar em contato comigo basta acessar este e-mail 
+@brhenda.favero@escola.pr.gov.br
 
 <!---
 brhenda/brhenda is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
